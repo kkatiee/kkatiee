@@ -1,0 +1,7 @@
+Showing  with 2 additions and 0 deletions.
++2 −0  .gitignore
+ 2  .gitignore 
+@@ -0,0 +1,2 @@
+__pycache__/
+hitherdither/__pycache__/ 
+0 comments on commit aa04303
